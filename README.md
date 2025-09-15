@@ -11,17 +11,20 @@ The steps are broken into three parts so you can take it one application at a ti
    - Install Git  
    - Configure SSH keys on Windows  
    - Connect your computer securely to GitHub  
+   - **Here’s why this is important:** GitHub is your central hub. It keeps your code safe, tracks every change you make, and makes it easy to share or ask for help.  
 
 2. [Python Setup](python.md)  
    - Install the latest version of Python (3.13.x)  
    - Add Python to your PATH  
    - Verify the installation  
    - Upgrade pip (the Python package manager)  
+   - **Here’s why this is important:** Python is the language we’ll use. Installing it means your computer understands the code you write and can actually run it.  
 
 3. [PyCharm Setup](pycharm.md)  
    - Download and install **PyCharm Community Edition** (the free version)  
    - Avoid getting tricked into the paid “Professional” edition  
    - Configure your first launch for Python development  
+   - **Here’s why this is important:** PyCharm is your workshop. It gives you tools to write, run, and debug your code without fighting the computer.  
 
 ---
 
