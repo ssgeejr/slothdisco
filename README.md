@@ -1,6 +1,3 @@
-Here’s your updated `README.md`, keeping the exact same style and just adding the link to the new **example.md** for building the first project:
-
-```markdown
 # SlothDisco
 
 **Start Your Journey into Python Development (Windows Edition)**  
@@ -46,4 +43,3 @@ We take it **slow, simple, and step-by-step** — and we make sure the dance flo
 ---
 
 🚀 Once you finish these four steps, you’ll have a working setup, a real project in GitHub, and the confidence to move forward with Python.
-```
