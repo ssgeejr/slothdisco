@@ -2,7 +2,15 @@
 
 **Start Your Journey into Python Development (Windows Edition)**  
 
-This project is a beginner-friendly guide that walks you through setting up a complete Python development environment on Windows — no shortcuts, no confusion, and no “gotchas.”  
+This project is a beginner-friendly guide that walks you through setting up a complete Python development environment on Windows — no shortcuts, no confusion, and no “gotchas.” 
+
+---
+
+## Why SlothDisco?
+Because learning Python doesn’t have to be fast, boring, or painful.  
+We take it **slow, simple, and step-by-step** — and we make sure the dance floor (your development environment) is ready before the coding music starts.  
+
+---
 
 The steps are broken into three parts so you can take it one application at a time:  
 
@@ -33,12 +41,6 @@ The steps are broken into three parts so you can take it one application at a ti
    - Add and run your first Python file (`hello.py`)  
    - Commit and push your code back to GitHub  
    - **Here’s why this is important:** This ties everything together. You’ll practice the full workflow: GitHub → PyCharm → Python code → back to GitHub.  
-
----
-
-## Why SlothDisco?
-Because learning Python doesn’t have to be fast, boring, or painful.  
-We take it **slow, simple, and step-by-step** — and we make sure the dance floor (your development environment) is ready before the coding music starts.  
 
 ---
 
