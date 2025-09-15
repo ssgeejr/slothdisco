@@ -1,3 +1,6 @@
+Here’s your updated `README.md`, keeping the exact same style and just adding the link to the new **example.md** for building the first project:
+
+```markdown
 # SlothDisco
 
 **Start Your Journey into Python Development (Windows Edition)**  
@@ -26,6 +29,14 @@ The steps are broken into three parts so you can take it one application at a ti
    - Configure your first launch for Python development  
    - **Here’s why this is important:** PyCharm is your workshop. It gives you tools to write, run, and debug your code without fighting the computer.  
 
+4. [First Project Example](example.md)  
+   - Create a new GitHub repository called **pycraft**  
+   - Clone the repository to your computer  
+   - Open the project in PyCharm  
+   - Add and run your first Python file (`hello.py`)  
+   - Commit and push your code back to GitHub  
+   - **Here’s why this is important:** This ties everything together. You’ll practice the full workflow: GitHub → PyCharm → Python code → back to GitHub.  
+
 ---
 
 ## Why SlothDisco?
@@ -34,4 +45,5 @@ We take it **slow, simple, and step-by-step** — and we make sure the dance flo
 
 ---
 
-🚀 Once you finish these three steps, you’ll be ready to open PyCharm, create your first project, and start coding in Python.
+🚀 Once you finish these four steps, you’ll have a working setup, a real project in GitHub, and the confidence to move forward with Python.
+```
